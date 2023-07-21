@@ -2,9 +2,9 @@
 import ContentContainer from './components/ContentContainer.vue'
 
 const courseData = {
-  "courseCode": "L210E",
-  "courseTitle": "Financials Process Overview",
-  "topic": "Finance"
+  "courseCode": "E300",
+  "courseTitle": "Test Course Title",
+  "topic": "Introduction To Learning"
 }
 </script>
 
