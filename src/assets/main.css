@@ -3,20 +3,27 @@
 #app {
   width: 960px;
   height: 674px;
-  background-color: rgb(45 76 83);
+  background-color: #EFEFEF;
   display: flex;
   margin: auto;
   border-radius: 1%;
   flex-direction: column;
 }
 
+h1, h2, h3, h4 {
+  font-family: 'Ubuntu';
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
 .btn-med {
   font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Ubuntu';
   color: white;
-  background-color: #1ea3de;
-  border-width: 2px;
-  border-color: white;
+  background-color: #003084;
+  border-radius: 10px;
   font-size: 16px;
-  padding: 6px;
-  margin-top: 20px;
 }

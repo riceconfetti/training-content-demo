@@ -19,8 +19,7 @@ onBeforeMount(()=>{
 <template>
   <SlideContent v-bind="slideData">
     <p>
-      This training course will introduce you to the process, coordination, and information required
-      to understand the Financials process in GFEBS.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam faucibus tempus velit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec facilisis odio et sem ultricies ornare. Morbi auctor ipsum eu ligula placerat ornare. Aliquam scelerisque ante nunc, dictum vulputate risus porta nec. 
     </p>
     <img src="/shield-01.png" />
   </SlideContent>
